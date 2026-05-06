@@ -9,7 +9,7 @@ Step 3: Create HTML File (index.html)
 <html> 
 <head> 
     <title>Docker Practical</title> 
-Page 32 of 33 
+
  
 </head> 
 <body> 
